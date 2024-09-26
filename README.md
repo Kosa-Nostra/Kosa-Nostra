@@ -17,3 +17,5 @@
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/sent_j0hn)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561199129838867/)
 
+### 🔥 Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kosa-Nostra&theme=dark&background=000000)](https://git.io/streak-stats)
