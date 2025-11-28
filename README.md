@@ -1,5 +1,5 @@
 ![Header](https://github.com/Kosa-Nostra/Kosa-Nostra/blob/main/assets/3.gif)
-## I`m beginner software engineer and 2nd grade student
+## I`m beginner software engineer and 3nd grade student
 
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus)
