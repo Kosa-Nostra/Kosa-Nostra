@@ -1,5 +1,5 @@
 ![Header](https://github.com/Kosa-Nostra/Kosa-Nostra/blob/main/assets/3.gif)
-## I`m beginner software engineer and 3nd grade student
+## I`m beginner mobile dev and 3nd grade student
 
 ## Languages and Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
