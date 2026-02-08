@@ -2,6 +2,7 @@
 ## I`m beginner software engineer and 3nd grade student
 
 ## Languages and Tools
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=cplusplus)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
