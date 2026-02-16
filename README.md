@@ -1,4 +1,3 @@
-![Header](https://github.com/Kosa-Nostra/Kosa-Nostra/blob/main/assets/3.gif)
 ## I`m beginner mobile dev and 3nd grade student
 
 ## Languages and Tools
